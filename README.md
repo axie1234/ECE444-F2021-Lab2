@@ -13,7 +13,7 @@ Activity 2 Screenshot
 Activity 3 Screenshot
 ![Activity 3](/activity_3.png)
 
-Activity 4 Screenshots
+Activity 4 Screenshots of the Field Entries and their Potential Errors
 ![Activity 4](/activity_4_1.png)
 ![Activity 4](/activity_4_2.png)
 ![Activity 4](/activity_4_3.png)
